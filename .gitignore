@@ -11,4 +11,4 @@ mesh_test2.xml
 chin_test.txt
 userdict.txt
 tl_chin_list.xml
-lstm/data
+lstm/data/
