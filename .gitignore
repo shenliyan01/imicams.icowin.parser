@@ -5,3 +5,10 @@ py27env/
 py36env/
 relation.tagger/
 web/
+mesh_test.xml
+mesh_test.xml.bak
+mesh_test2.xml
+chin_test.txt
+userdict.txt
+tl_chin_list.xml
+lstm/data
