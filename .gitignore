@@ -1,0 +1,7 @@
+Imicams_icowin_parser.patch
+data/
+model/
+py27env/
+py36env/
+relation.tagger/
+web/
